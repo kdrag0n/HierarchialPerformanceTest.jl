@@ -3,6 +3,10 @@ uuid = "e1eb51b3-9a08-4f80-9585-c70d0c791817"
 authors = ["Danny Lin <danny@kdrag0n.dev> and contributors"]
 version = "0.1.0"
 
+[deps]
+HypothesisTests = "09f84164-cd44-5f33-b23f-e6b0d136a0d5"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+
 [compat]
 julia = "1"
 
