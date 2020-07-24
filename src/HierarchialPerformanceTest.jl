@@ -93,4 +93,6 @@ function calcScore(results::PerfMatrix, reference::PerfMatrix, refScore::Int = 1
     round(Int, hptSpeedup(reference, results) * refScore)
 end
 
+export hpt, hptSpeedup, calcScore
+
 end
