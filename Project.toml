@@ -1,7 +1,7 @@
 name = "HierarchialPerformanceTest"
 uuid = "e1eb51b3-9a08-4f80-9585-c70d0c791817"
 authors = ["Danny Lin <danny@kdrag0n.dev> and contributors"]
-version = "0.1.0"
+version = "1.0.0"
 
 [deps]
 HypothesisTests = "09f84164-cd44-5f33-b23f-e6b0d136a0d5"
